@@ -1,0 +1,16 @@
+.idea
+/*.csproj
+/*.sln
+/*.userprefs
+/*.pidb
+.vs
+.vsconfig
+.vscode
+Library
+Logs
+obj
+Temp
+UserSettings
+Bundles
+MemoryCaptures
+Assets/StreamingAssets/yoo

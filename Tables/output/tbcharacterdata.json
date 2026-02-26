@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1001,
+    "res": "11",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 10,
+    "hp": 250,
+    "move_speed": 4,
+    "skills": [
+      106
+    ]
+  },
+  {
+    "id": 1002,
+    "res": "4",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 4,
+    "skills": [
+      104
+    ]
+  },
+  {
+    "id": 1003,
+    "res": "5",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 4,
+    "skills": [
+      104
+    ]
+  },
+  {
+    "id": 1004,
+    "res": "6",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 4,
+    "skills": [
+      104
+    ]
+  },
+  {
+    "id": 1005,
+    "res": "7",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 4,
+    "skills": [
+      104
+    ]
+  },
+  {
+    "id": 1006,
+    "res": "8",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 4,
+    "skills": [
+      104
+    ]
+  },
+  {
+    "id": 1007,
+    "res": "6",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 18,
+    "hp": 150,
+    "move_speed": 2,
+    "skills": [
+      113
+    ]
+  },
+  {
+    "id": 1008,
+    "res": "4",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 2,
+    "skills": [
+      111
+    ]
+  },
+  {
+    "id": 1009,
+    "res": "5",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 2,
+    "skills": [
+      112
+    ]
+  },
+  {
+    "id": 1010,
+    "res": "6",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 2,
+    "skills": [
+      111
+    ]
+  },
+  {
+    "id": 1011,
+    "res": "7",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 2,
+    "skills": [
+      111
+    ]
+  },
+  {
+    "id": 1012,
+    "res": "8",
+    "colider_radius": 1,
+    "search_distance": 15,
+    "type": 2,
+    "attack": 15,
+    "hp": 100,
+    "move_speed": 2,
+    "skills": [
+      112
+    ]
+  },
+  {
+    "id": 1013,
+    "res": "2",
+    "colider_radius": 1,
+    "search_distance": 12,
+    "type": 1,
+    "attack": 18,
+    "hp": 300,
+    "move_speed": 10,
+    "skills": [
+      102,
+      103
+    ]
+  },
+  {
+    "id": 1014,
+    "res": "2",
+    "colider_radius": 1,
+    "search_distance": 12,
+    "type": 1,
+    "attack": 25,
+    "hp": 400,
+    "move_speed": 10,
+    "skills": [
+      102,
+      103,
+      107
+    ]
+  },
+  {
+    "id": 1015,
+    "res": "2",
+    "colider_radius": 1,
+    "search_distance": 12,
+    "type": 1,
+    "attack": 25,
+    "hp": 400,
+    "move_speed": 10,
+    "skills": [
+      108,
+      109,
+      110
+    ]
+  },
+  {
+    "id": 1016,
+    "res": "1301",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 3,
+    "attack": 15,
+    "hp": 250,
+    "move_speed": 4,
+    "skills": [
+      130101
+    ]
+  },
+  {
+    "id": 1017,
+    "res": "1303",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 3,
+    "attack": 15,
+    "hp": 250,
+    "move_speed": 4,
+    "skills": [
+      130301
+    ]
+  },
+  {
+    "id": 1018,
+    "res": "1502",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 3,
+    "attack": 18,
+    "hp": 500,
+    "move_speed": 4,
+    "skills": [
+      150201
+    ]
+  },
+  {
+    "id": 1019,
+    "res": "2302",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 3,
+    "attack": 20,
+    "hp": 200,
+    "move_speed": 4,
+    "skills": [
+      230201
+    ]
+  },
+  {
+    "id": 1020,
+    "res": "2401",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 3,
+    "attack": 20,
+    "hp": 200,
+    "move_speed": 4,
+    "skills": [
+      240101
+    ]
+  },
+  {
+    "id": 1021,
+    "res": "3302",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 3,
+    "attack": 20,
+    "hp": 200,
+    "move_speed": 4,
+    "skills": [
+      330201
+    ]
+  },
+  {
+    "id": 1022,
+    "res": "3303",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 3,
+    "attack": 20,
+    "hp": 200,
+    "move_speed": 4,
+    "skills": [
+      330301
+    ]
+  },
+  {
+    "id": 1023,
+    "res": "301",
+    "colider_radius": 1,
+    "search_distance": 5,
+    "type": 4,
+    "attack": 5,
+    "hp": 50,
+    "move_speed": 5,
+    "skills": [
+      201
+    ]
+  },
+  {
+    "id": 1024,
+    "res": "302",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 4,
+    "attack": 6,
+    "hp": 70,
+    "move_speed": 3,
+    "skills": [
+      202
+    ]
+  },
+  {
+    "id": 1025,
+    "res": "305",
+    "colider_radius": 1,
+    "search_distance": 5,
+    "type": 4,
+    "attack": 5,
+    "hp": 50,
+    "move_speed": 5,
+    "skills": [
+      205
+    ]
+  },
+  {
+    "id": 1026,
+    "res": "306",
+    "colider_radius": 1.5,
+    "search_distance": 30,
+    "type": 4,
+    "attack": 40,
+    "hp": 400,
+    "move_speed": 6,
+    "skills": [
+      207,
+      208
+    ]
+  },
+  {
+    "id": 1027,
+    "res": "301",
+    "colider_radius": 1,
+    "search_distance": 5,
+    "type": 4,
+    "attack": 6,
+    "hp": 50,
+    "move_speed": 5,
+    "skills": [
+      201
+    ]
+  },
+  {
+    "id": 1028,
+    "res": "302",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 4,
+    "attack": 7,
+    "hp": 50,
+    "move_speed": 3,
+    "skills": [
+      202
+    ]
+  },
+  {
+    "id": 1029,
+    "res": "303",
+    "colider_radius": 1.5,
+    "search_distance": 30,
+    "type": 4,
+    "attack": 50,
+    "hp": 500,
+    "move_speed": 6,
+    "skills": [
+      203,
+      206
+    ]
+  },
+  {
+    "id": 1030,
+    "res": "305",
+    "colider_radius": 1,
+    "search_distance": 5,
+    "type": 4,
+    "attack": 6,
+    "hp": 50,
+    "move_speed": 5,
+    "skills": [
+      205
+    ]
+  },
+  {
+    "id": 1031,
+    "res": "304",
+    "colider_radius": 1,
+    "search_distance": 10,
+    "type": 4,
+    "attack": 8,
+    "hp": 60,
+    "move_speed": 3,
+    "skills": [
+      204
+    ]
+  },
+  {
+    "id": 1032,
+    "res": "301",
+    "colider_radius": 0.3,
+    "search_distance": 10,
+    "type": 4,
+    "attack": 5,
+    "hp": 25,
+    "move_speed": 2,
+    "skills": [
+      201
+    ]
+  },
+  {
+    "id": 1033,
+    "res": "305",
+    "colider_radius": 0.5,
+    "search_distance": 30,
+    "type": 4,
+    "attack": 50,
+    "hp": 500,
+    "move_speed": 6,
+    "skills": [
+      205
+    ]
+  }
+]

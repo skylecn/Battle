@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1001,
+    "res": "Friend1",
+    "radius": 1,
+    "search_distance": 20,
+    "type": 1,
+    "attack": 10,
+    "hp": 250,
+    "move_speed": 4,
+    "skills": [
+      100101,
+      100102
+    ],
+    "passive_skills": [
+      100202
+    ]
+  },
+  {
+    "id": 1002,
+    "res": "Friend2",
+    "radius": 0.5,
+    "search_distance": 20,
+    "type": 1,
+    "attack": 20,
+    "hp": 100,
+    "move_speed": 4,
+    "skills": [
+      100201
+    ],
+    "passive_skills": []
+  },
+  {
+    "id": 1011,
+    "res": "Enemy1",
+    "radius": 1,
+    "search_distance": 20,
+    "type": 1,
+    "attack": 10,
+    "hp": 250,
+    "move_speed": 4,
+    "skills": [
+      100101,
+      100102
+    ],
+    "passive_skills": []
+  },
+  {
+    "id": 1012,
+    "res": "Enemy2",
+    "radius": 0.5,
+    "search_distance": 20,
+    "type": 1,
+    "attack": 20,
+    "hp": 100,
+    "move_speed": 4,
+    "skills": [
+      100201
+    ],
+    "passive_skills": []
+  },
+  {
+    "id": 1021,
+    "res": "Tower",
+    "radius": 1,
+    "search_distance": 100,
+    "type": 2,
+    "attack": 10,
+    "hp": 1000,
+    "move_speed": 0,
+    "skills": [
+      102101
+    ],
+    "passive_skills": []
+  }
+]

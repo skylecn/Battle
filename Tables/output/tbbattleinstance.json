@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "scene": "BattleMap01.prefab",
+    "bgm": "battle01"
+  },
+  {
+    "id": 2,
+    "scene": "BattleMap01.prefab",
+    "bgm": "battle01"
+  },
+  {
+    "id": 3,
+    "scene": "BattleMap01.prefab",
+    "bgm": "main02"
+  },
+  {
+    "id": 4,
+    "scene": "BattleMap01.prefab",
+    "bgm": "main02"
+  }
+]

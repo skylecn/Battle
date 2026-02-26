@@ -1,0 +1,36 @@
+[
+  {
+    "id": 102,
+    "animation": 1,
+    "distance": 12,
+    "speed": 0.6,
+    "cooldown": 0,
+    "duration": 2,
+    "skill_event": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 103,
+    "animation": 2,
+    "distance": 12,
+    "speed": 1.1,
+    "cooldown": 8,
+    "duration": 1,
+    "skill_event": [
+      3
+    ]
+  },
+  {
+    "id": 104,
+    "animation": 3,
+    "distance": 15,
+    "speed": 1,
+    "cooldown": 0,
+    "duration": 1,
+    "skill_event": [
+      2
+    ]
+  }
+]

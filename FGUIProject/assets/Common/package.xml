@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="f54umyny">
+  <resources>
+    <component id="sgjw0" name="HpBar.xml" path="/" exported="true"/>
+    <component id="sgjw1" name="ProgressBar1.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

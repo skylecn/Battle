@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "res": "fx_gc_m04_attack.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 3
+  },
+  {
+    "id": 2,
+    "res": "fx_gc_m09_attack.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 3
+  },
+  {
+    "id": 3,
+    "res": "fx_gc_attack_hit.prefab",
+    "parent_node": "Rig_Point_Mid",
+    "effect_type": 1,
+    "time": 2
+  },
+  {
+    "id": 4,
+    "res": "fx_gc_m05_hit.prefab",
+    "parent_node": "Rig_Point_Mid",
+    "effect_type": 1,
+    "time": 2
+  },
+  {
+    "id": 5,
+    "res": "fx_gc_m12_hit.prefab",
+    "parent_node": "Rig_Point_Mid",
+    "effect_type": 1,
+    "time": 2
+  },
+  {
+    "id": 6,
+    "res": "fx_gc_m09_skill.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 2,
+    "time": 3
+  },
+  {
+    "id": 7,
+    "res": "fx_gc_madpig_attack.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 2
+  },
+  {
+    "id": 8,
+    "res": "fx_gc_m08_attack.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 3
+  },
+  {
+    "id": 9,
+    "res": "fx_gc_m08_skill.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 2,
+    "time": 3
+  },
+  {
+    "id": 101,
+    "res": "fx_gc_hero_skill.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 3
+  },
+  {
+    "id": 102,
+    "res": "fx_gc_hero_skill1_xuli.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 2
+  },
+  {
+    "id": 103,
+    "res": "fx_gc_hero_skill_hit.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 2
+  },
+  {
+    "id": 130101,
+    "res": "fx_ch_h01_attack_gc.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 3
+  },
+  {
+    "id": 130301,
+    "res": "fx_ch_h04_attack_gc.prefab",
+    "parent_node": "Rig_Point_Bottom",
+    "effect_type": 1,
+    "time": 3
+  }
+]

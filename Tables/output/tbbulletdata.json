@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "speed": 1500,
+    "res": "fx_class_zidan_mao.prefab",
+    "track_type": 2,
+    "source_node": "Rig_Point_Mid",
+    "source_offset": {
+      "x": -30,
+      "y": 1
+    },
+    "target_node": "Rig_Point_Mid",
+    "target_offset": {
+      "x": 0,
+      "y": 0
+    },
+    "hit_effect": 0
+  },
+  {
+    "id": 2,
+    "speed": 1600,
+    "res": "fx_class_zidan_jian.prefab",
+    "track_type": 2,
+    "source_node": "Rig_Point_Mid",
+    "source_offset": {
+      "x": -30,
+      "y": 2
+    },
+    "target_node": "Rig_Point_Mid",
+    "target_offset": {
+      "x": 0,
+      "y": 1
+    },
+    "hit_effect": 0
+  },
+  {
+    "id": 3,
+    "speed": 1500,
+    "res": "fx_class_zidan_maoslg.prefab",
+    "track_type": 2,
+    "source_node": "Rig_Point_Mid",
+    "source_offset": {
+      "x": -30,
+      "y": 3
+    },
+    "target_node": "Rig_Point_Mid",
+    "target_offset": {
+      "x": 0,
+      "y": 2
+    },
+    "hit_effect": 0
+  }
+]

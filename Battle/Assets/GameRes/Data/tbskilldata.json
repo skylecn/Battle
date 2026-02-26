@@ -1,0 +1,90 @@
+[
+  {
+    "id": 100101,
+    "name": 0,
+    "icon": "",
+    "des": 0,
+    "animation": 1,
+    "target_type": 3,
+    "target_camp": 2,
+    "distance": 2.5,
+    "speed": 0.6,
+    "cooldown": 5,
+    "duration": 1,
+    "skill_event": [
+      10010101
+    ],
+    "hit_event": []
+  },
+  {
+    "id": 100102,
+    "name": 0,
+    "icon": "",
+    "des": 0,
+    "animation": 2,
+    "target_type": 3,
+    "target_camp": 2,
+    "distance": 2.5,
+    "speed": 1.1,
+    "cooldown": 0,
+    "duration": 1.5,
+    "skill_event": [
+      10010102,
+      10010103,
+      10010104,
+      10010105
+    ],
+    "hit_event": []
+  },
+  {
+    "id": 100201,
+    "name": 0,
+    "icon": "",
+    "des": 0,
+    "animation": 1,
+    "target_type": 3,
+    "target_camp": 2,
+    "distance": 15,
+    "speed": 1,
+    "cooldown": 0,
+    "duration": 1,
+    "skill_event": [
+      10020101
+    ],
+    "hit_event": []
+  },
+  {
+    "id": 102101,
+    "name": 0,
+    "icon": "",
+    "des": 0,
+    "animation": 1,
+    "target_type": 3,
+    "target_camp": 2,
+    "distance": 50,
+    "speed": 1,
+    "cooldown": 0,
+    "duration": 1,
+    "skill_event": [
+      10210101
+    ],
+    "hit_event": [
+      10210102
+    ]
+  },
+  {
+    "id": 102102,
+    "name": 0,
+    "icon": "",
+    "des": 0,
+    "animation": 1,
+    "target_type": 3,
+    "target_camp": 2,
+    "distance": 30,
+    "speed": 0,
+    "cooldown": 0,
+    "duration": 0,
+    "skill_event": [],
+    "hit_event": []
+  }
+]

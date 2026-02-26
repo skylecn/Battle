@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fabblpxd">
+  <resources>
+    <component id="j36x0" name="LevelWindow.xml" path="/" exported="true"/>
+    <component id="movr1" name="LevelItem.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

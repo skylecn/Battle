@@ -1,0 +1,38 @@
+[
+  {
+    "id": 102,
+    "type": 1,
+    "time": 12,
+    "bullet": 1,
+    "damage_type": 0,
+    "damage_ratio": 0,
+    "aoe_center": 0,
+    "aoe_radius": 0,
+    "effect": 0,
+    "audio": 0
+  },
+  {
+    "id": 103,
+    "type": 2,
+    "time": 12,
+    "bullet": 2,
+    "damage_type": 8,
+    "damage_ratio": 0,
+    "aoe_center": 0,
+    "aoe_radius": 0,
+    "effect": 0,
+    "audio": 0
+  },
+  {
+    "id": 104,
+    "type": 3,
+    "time": 15,
+    "bullet": 3,
+    "damage_type": 0,
+    "damage_ratio": 0,
+    "aoe_center": 0,
+    "aoe_radius": 0,
+    "effect": 0,
+    "audio": 0
+  }
+]

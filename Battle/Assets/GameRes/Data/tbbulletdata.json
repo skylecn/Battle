@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "speed": 1500,
+    "res": "bullet1",
+    "track_type": 2,
+    "source_node": "Middle",
+    "source_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "target_node": "Middle",
+    "target_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "hit_effect": 0
+  },
+  {
+    "id": 2,
+    "speed": 1000,
+    "res": "bullet2",
+    "track_type": 2,
+    "source_node": "Middle",
+    "source_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "target_node": "Middle",
+    "target_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "hit_effect": 0
+  }
+]

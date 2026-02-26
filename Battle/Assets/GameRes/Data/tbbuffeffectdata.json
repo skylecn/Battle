@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "effect_type": 2,
+    "param1": 0.1,
+    "param2": 0,
+    "param3": 0,
+    "param4": 0,
+    "param5": 0
+  },
+  {
+    "id": 102101021,
+    "effect_type": 1,
+    "param1": 7,
+    "param2": 300,
+    "param3": -0.5,
+    "param4": 0,
+    "param5": 0
+  },
+  {
+    "id": 104,
+    "effect_type": 11,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "param4": 0,
+    "param5": 0
+  },
+  {
+    "id": 105,
+    "effect_type": 12,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "param4": 0,
+    "param5": 0
+  },
+  {
+    "id": 106,
+    "effect_type": 10,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "param4": 0,
+    "param5": 0
+  }
+]

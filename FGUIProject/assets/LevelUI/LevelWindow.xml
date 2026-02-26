@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n1_movr" name="n1" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#ffefd8bb">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <list id="n0_movr" name="levelList" xy="390,0" size="300,1920" visible="false" overflow="scroll" lineGap="5" defaultItem="ui://fabblpxdmovr1" align="center" vAlign="middle" autoClearItems="true">
+      <item title="1"/>
+      <item title="2"/>
+      <item title="3"/>
+      <item title="4"/>
+    </list>
+    <text id="n15_d4qr" name="l1" xy="693,1233" pivot="0,0.5" size="258,41" rotation="42" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - -"/>
+    <text id="n16_d4qr" name="l1" xy="390,1172" pivot="0,0.5" size="258,41" rotation="11" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - -"/>
+    <text id="n17_d4qr" name="l1" xy="152,995" pivot="0,0.5" size="277,41" rotation="36" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - - -"/>
+    <text id="n18_d4qr" name="l1" xy="157,993" pivot="0,0.5" size="277,41" rotation="-40" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - - -"/>
+    <text id="n19_d4qr" name="l1" xy="369,820" pivot="0,0.5" size="258,41" rotation="-11" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - -"/>
+    <text id="n20_d4qr" name="l1" xy="660,760" pivot="0,0.5" size="258,41" rotation="-25" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - -"/>
+    <text id="n21_d4qr" name="l1" xy="893,639" pivot="0,0.5" size="258,41" rotation="-127" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - -"/>
+    <text id="n22_d4qr" name="l1" xy="740,427" pivot="0,0.5" size="258,41" rotation="-164" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - -"/>
+    <text id="n5_d4qr" name="l1" xy="544,1562" pivot="0,0.5" size="333,41" rotation="-23" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - - - - - -"/>
+    <text id="n25_d4qr" name="l1" xy="455,343" pivot="0,0.5" size="258,41" rotation="-145" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - -"/>
+    <text id="n26_d4qr" name="l1" xy="213,167" pivot="0,0.5" size="643,41" rotation="-54" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="- - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - -"/>
+    <component id="n2_d4qr" name="item1" src="movr1" fileName="LevelItem.xml" xy="475,1520" size="130,130"/>
+    <component id="n6_d4qr" name="item2" src="movr1" fileName="LevelItem.xml" xy="828,1371" size="130,130"/>
+    <component id="n7_d4qr" name="item3" src="movr1" fileName="LevelItem.xml" xy="629,1190" size="130,130"/>
+    <component id="n8_d4qr" name="item4" src="movr1" fileName="LevelItem.xml" xy="327,1132" size="130,130"/>
+    <component id="n9_d4qr" name="item5" src="movr1" fileName="LevelItem.xml" xy="91,952" size="130,130"/>
+    <component id="n10_d4qr" name="item6" src="movr1" fileName="LevelItem.xml" xy="303,775" size="130,130"/>
+    <component id="n11_d4qr" name="item7" src="movr1" fileName="LevelItem.xml" xy="592,718" size="130,130"/>
+    <component id="n12_d4qr" name="item8" src="movr1" fileName="LevelItem.xml" xy="833,599" size="130,130"/>
+    <component id="n13_d4qr" name="item9" src="movr1" fileName="LevelItem.xml" xy="675,385" size="130,130"/>
+    <component id="n14_d4qr" name="item10" src="movr1" fileName="LevelItem.xml" xy="394,296" size="130,130"/>
+    <component id="n23_d4qr" name="item11" src="movr1" fileName="LevelItem.xml" xy="149,122" size="130,130"/>
+  </displayList>
+</component>

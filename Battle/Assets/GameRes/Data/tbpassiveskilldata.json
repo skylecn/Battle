@@ -1,0 +1,14 @@
+[
+  {
+    "id": 100202,
+    "name": 0,
+    "icon": "",
+    "des": 0,
+    "event_type": 1,
+    "ratio": 0.2,
+    "cooldown": 0.5,
+    "skill_event": [
+      10020211
+    ]
+  }
+]
