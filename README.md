@@ -1,5 +1,9 @@
+# 游戏展示
+![image](https://github.com/skylecn/Battle/blob/master/gameshow.png)
+
 # 入口
 **Battle/Assets/Scenes/GameStart**：用Unity打开Battle工程，打开GameStart场景，启动
+
 
 # 主要功能
 一个简单的战斗框架，示例是简单的塔防玩法，怪物轮番进攻，主要演示战斗底层逻辑。资源用的简模。
