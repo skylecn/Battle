@@ -21,7 +21,7 @@
 
 **Tools**：luban导表工具
 
-**Battle/Assets/Scripts**：战斗及基础框架，详细可查看[Battle/Assets/Scripts/README.md](Battle/Assets/Scripts/README.md), 其中Collision2d由AI生成，主要实现了Circle,AABB,OBB碰撞检测和射线检测
+**Battle/Assets/Scripts**：战斗及基础框架，详细可查看[Battle/Assets/Scripts/README.md](Battle/Assets/Scripts), 其中Collision2d由AI生成，主要实现了Circle,AABB,OBB碰撞检测和射线检测
 
 # 主要插件
 资源管理用YooAsset，配置表用的luban，行为树用NPBehave，UI用的FairyGUI
